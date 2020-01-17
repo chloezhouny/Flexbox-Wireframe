@@ -1,7 +1,7 @@
 # Flexbox-Wireframe
 Apply flexbox properties for wireframe layout
 
-Link: 
+Link: https://chloezhouny.github.io/Flexbox-Wireframe/
 
 
 ## Preview
